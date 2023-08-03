@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abderrahmane</h1>
 <p align="center">
-  <img src="https://github.com/Abdo0008/Abdo0008/blob/main/634e9d7041b25ff95cde40841733255f.jpg?raw=true" width="800" height="400">
+  <img src="https://github.com/Abdo0008/Abdo0008/blob/main/634e9d7041b25ff95cde40841733255f.jpg?raw=true" width="670" height="500">
 </p>
 
 
