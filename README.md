@@ -3,13 +3,13 @@
 <p align="right">
   <img src="https://github.com/Abdo0008/Abdo0008/blob/main/634e9d7041b25ff95cde40841733255f.jpg?raw=true" width="400" height="400">
 </p>
-# - 🔭 I’m currently working on **on my skills**
+# 🔭 I’m currently working on **on my skills**
 
-- 🌱 I’m currently learning **to be a software engineer**
+#🌱 I’m currently learning **to be a software engineer**
 
-- 👯 I’m looking to collaborate on **on any i can be helpful in**
+#👯 I’m looking to collaborate on **on any i can be helpful in**
 
-- ⚡ Fun fact **Life is about managing risk**
+#⚡ Fun fact **Life is about managing risk**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdo0008&label=Profile%20views&color=0e75b6&style=flat" alt="abdo0008" /> </p>
