@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25B3DC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abderrahmane)](https://git.io/typing-svg)
 
 <h4 align="center">A passionate frontend developer from Morocco and student at ALX Software engineer,What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.I love to explore new technologies and leverage them to solve real-life problems ✨</h3>
-<img align="right" height="370" width="450" alt="" src="https://github.com/Abdo0008/Abdo0008/blob/main/634e9d7041b25ff95cde40841733255f.jpg?raw=true" />
 
 - 🔭 I’m currently working on **on my skills**
 
